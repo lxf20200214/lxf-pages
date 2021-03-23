@@ -1,19 +1,19 @@
 {
   "name": "lxf-pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "bin": "bin/lxf-pages.js",
   "license": "MIT",
-  "files":[
+  "files": [
     "lib",
     "bin"
   ],
   "dependencies": {
-    "gulp": "^4.0.2",
     "@babel/core": "^7.13.10",
     "@babel/preset-env": "^7.13.10",
     "browser-sync": "^2.26.14",
     "del": "^6.0.0",
+    "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-htmlmin": "^5.0.1",
